@@ -5,6 +5,7 @@
 
 学习git参考:
 廖雪峰老师的文档参考: http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/
+<br/>
 国外大牛的git相关视频: 链接：http://pan.baidu.com/s/1bpJlWAz 密码：cia4
 
 本人正在使用git创建第一个版本库,下一步就是实现团队间的协作开发,希望大家一起努力哦!!!
